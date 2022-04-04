@@ -72,6 +72,8 @@ pm2 start server/server.js --name uptime-kuma
 pm2 monit
 ```
 
+https://blog.csdn.net/taoerchun/article/details/81537654  PM2常用命令
+
 Browse to http://localhost:3001 after starting.
 
 ### Advanced Installation
