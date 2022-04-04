@@ -50,6 +50,7 @@ Browse to http://localhost:3001 after starting.
 Required Tools: Node.js >= 14, git and pm2.
 
 ```bash
+node v15.9.0 可以
 # Update your npm to the latest version
 npm install npm -g
 
